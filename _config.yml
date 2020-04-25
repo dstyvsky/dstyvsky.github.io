@@ -94,10 +94,10 @@ analytics:
 # Site Author
 author:
   name             : "Kyle White"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  avatar           : "/assets/images/Portrait.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "dst3v5ky"
+  location         : "United States"
+  email            : "kyle@securitysonar.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
