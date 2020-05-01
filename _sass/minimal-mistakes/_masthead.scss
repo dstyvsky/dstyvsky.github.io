@@ -25,6 +25,7 @@
     justify-content: space-between;
     font-family: $header-family;
     font-style: normal;
+    letter-spacing: 0.1em;
 
     @include breakpoint($x-large) {
       max-width: $max-width;
